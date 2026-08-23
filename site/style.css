@@ -1,0 +1,23 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    padding: 0 10px;
+
+    font-size: 18px;
+    line-height: 1.6;
+    color: #444;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+}
+
+a {
+    color: inherit;
+}
+
+pre {
+    overflow-x: auto;
+}
